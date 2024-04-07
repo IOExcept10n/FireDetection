@@ -7,19 +7,19 @@ For video prediction run [test.py](test.py).
 
 ## Metrics
 **F1**
-!(Resources/F1_curve.png) </br>
+![F1 curves](Resources/F1_curve.png) </br>
 
 **Precision**
-!(Resources/P_curve.png) </br>
+![P curve](Resources/P_curve.png) </br>
 
 **Precision-Recall**
-!(Resources/PR_curve.png) </br>
+![PR curve](Resources/PR_curve.png) </br>
 
 **Recall**
-!(Resources/R_curve.png) </br>
+![R curve](Resources/R_curve.png) </br>
 
 **Train results**
-!(Resources/results.png) </br>
+![Results](Resources/results.png) </br>
 
 **Labels**
-!(Resources/labels.png) </br>
+![Labels](Resources/labels.png) </br>
