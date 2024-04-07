@@ -6,10 +6,9 @@ if __name__ == "__main__":
     prec = float(input("Input precision threshold: "))
     path = input("Input experiment name: ")
     mn = input("Input model name: ")
-    src = input("Input image or video sources, splitted by ';'").split()
     model = YOLO(mn)
     results = model.predict(
-        source = src,
+        source = "./Tests/*.mp4",
         name=path,
         save=True,
         show=True,

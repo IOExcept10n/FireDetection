@@ -3,7 +3,8 @@ A neural network that detects fire and smoke on images and videos
 
 ## How to run
 For training or combined predictions you can run [idk.py](idk.py).
-For video prediction run [test.py](test.py).
+For video prediction run [autotest.py](autotest.py). It will predict all videos in [Tests](Tests/) directory.
+For custom source prediction run [test.py](test.py). You can select any links or paths for the videos.
 
 ## Metrics
 **F1**
