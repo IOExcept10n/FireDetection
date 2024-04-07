@@ -22,4 +22,4 @@ For video prediction run [test.py](test.py).
 ![Results](Resources/results.png) </br>
 
 **Labels**
-![Labels](Resources/labels.png) </br>
+![Labels](Resources/labels.jpg) </br>
